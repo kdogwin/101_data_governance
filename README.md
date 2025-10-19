@@ -126,6 +126,8 @@ The organisation is held accountable for handling and security of the data
 SMBC is a japanese multinational banking and financial services company. Services include individual and coporate loans, credit cards, investment banking and securities.
 ### Parent Company (SMFinancial Group)
 ## 9. Data Management <a name="dm"></a>
+![](images/dm.PNG)
+
 Data management is the practice of organising and colleting organisations data so it can be analysed for business decisions. <br>
 Data is processed at large voumes in todays organisation and its important that the whole processed is managed
 ### Type of Data Management
